@@ -1,0 +1,33 @@
+.background{
+    background-color: indigo;
+    color:white;
+
+}
+.section{
+    height:580px;
+}
+.first{
+    height:95%;
+    overflow: auto;
+    padding: 10px 0;
+}
+.left,.right{
+    width: 60%;
+}
+.left{
+float:left;
+}
+.right{
+float:right;
+text-align: right;
+}
+.center{
+margin:auto;
+width: 50%;
+clear:both;
+margin-bottom: 10px;
+background-color: rgb(115, 146, 174);
+text-align: center;
+padding:2px 0px;
+
+}
